@@ -1,3 +1,4 @@
+## old style
 from fastapi import FastAPI
 import datetime
 
