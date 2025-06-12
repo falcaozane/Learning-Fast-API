@@ -1,0 +1,1 @@
+https://medium.com/@ChanakaDev/mongodb-with-fastapi-1d5440880520
