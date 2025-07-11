@@ -1,1 +1,5 @@
 **/__pycache__/
+/Bookly/book-env
+/Bookly/book-env/bin
+/Bookly/book-env/lib
+/Bookly/book-env/include
